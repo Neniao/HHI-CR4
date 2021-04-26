@@ -2,6 +2,6 @@
 
 Tool for calculating HHI and CR4 index.
 
-![alt text]http://github.com/Neniao/HHI-CR4/Capture.png
-![alt text]http://github.com/Neniao/HHI-CR4/Capture1.png
-![alt text]http://github.com/Neniao/HHI-CR4/Capture3.png
+![alt text]https://github.com/Neniao/HHI-CR4/blob/main/Capture.PNG
+![alt text]https://github.com/Neniao/HHI-CR4/blob/main/Capture1.PNG
+![alt text]https://github.com/Neniao/HHI-CR4/blob/main/Capture3.PNG
